@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/arunsinghsnd/covid19-tracking-updates.git/static/css/main.2fe79772.chunk.css",
+    "main.js": "/arunsinghsnd/covid19-tracking-updates.git/static/js/main.b4893027.chunk.js",
+    "main.js.map": "/arunsinghsnd/covid19-tracking-updates.git/static/js/main.b4893027.chunk.js.map",
+    "runtime-main.js": "/arunsinghsnd/covid19-tracking-updates.git/static/js/runtime-main.1a7aa855.js",
+    "runtime-main.js.map": "/arunsinghsnd/covid19-tracking-updates.git/static/js/runtime-main.1a7aa855.js.map",
+    "static/js/2.25ec9f42.chunk.js": "/arunsinghsnd/covid19-tracking-updates.git/static/js/2.25ec9f42.chunk.js",
+    "static/js/2.25ec9f42.chunk.js.map": "/arunsinghsnd/covid19-tracking-updates.git/static/js/2.25ec9f42.chunk.js.map",
+    "index.html": "/arunsinghsnd/covid19-tracking-updates.git/index.html",
+    "precache-manifest.9ef3ecf1458ef7dca80ddff1c27fac92.js": "/arunsinghsnd/covid19-tracking-updates.git/precache-manifest.9ef3ecf1458ef7dca80ddff1c27fac92.js",
+    "service-worker.js": "/arunsinghsnd/covid19-tracking-updates.git/service-worker.js",
+    "static/css/main.2fe79772.chunk.css.map": "/arunsinghsnd/covid19-tracking-updates.git/static/css/main.2fe79772.chunk.css.map",
+    "static/js/2.25ec9f42.chunk.js.LICENSE.txt": "/arunsinghsnd/covid19-tracking-updates.git/static/js/2.25ec9f42.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/arunsinghsnd/covid19-tracking-updates.git/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a7aa855.js",
+    "static/js/2.25ec9f42.chunk.js",
+    "static/css/main.2fe79772.chunk.css",
+    "static/js/main.b4893027.chunk.js"
+  ]
+}
